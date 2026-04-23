@@ -1,4 +1,4 @@
-# AI — From Scratch to Scale
+# AI - From Scratch to Scale
 
 > Open-source notes and implementations covering the full AI engineering stack:
 > from mathematical foundations to production-grade multi-agent systems.
